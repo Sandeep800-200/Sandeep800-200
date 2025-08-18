@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Sandeep R:
 💻 Engineering student at DSATM<br>🚀 Learning Python, C++, and DSA <br>🌱 Exploring IoT & AI<br>🔗 Building projects step by step
 
 
